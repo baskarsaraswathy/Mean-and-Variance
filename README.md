@@ -1,6 +1,6 @@
                                                                   # Name : BASKAR  J
                                                                   # Roll no : 212223040025
-#  Mean and variance of a discrete  distribution
+# EXP-01:Mean and variance of a discrete  distribution
 
 # Aim : 
 
